@@ -1,9 +1,7 @@
 RandomDelete
 ============
 
-Random delete tool for Illustrator.
-
-Inspired by [RandomTools](http://scriptographer.org/scripts/general-scripts/randomtools/) from [kenfrederick](http://kenfrederick.com/)
+Random delete tool for Illustrator, inspired by [RandomTools](http://scriptographer.org/scripts/general-scripts/randomtools/) from [kenfrederick](http://kenfrederick.com/)
 
 
 Installation
