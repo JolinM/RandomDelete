@@ -1,4 +1,4 @@
 RandomDelete
 ============
 
-Random delete tool for Scriptographer, based on RandomTools from [kenfrederick](http://kenfrederick.com/)
+Random delete tool for [Scriptographer](http://scriptographer.org/), based on [RandomTools](http://scriptographer.org/scripts/general-scripts/randomtools/) from [kenfrederick](http://kenfrederick.com/)
