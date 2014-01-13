@@ -5,13 +5,14 @@ Random delete tool for Illustrator.
 
 Inspired by [RandomTools](http://scriptographer.org/scripts/general-scripts/randomtools/) from [kenfrederick](http://kenfrederick.com/)
 
-# To install
 
-Put the file in Illustrator Script Directory
+Installation
+-------
 
-On Mac
-/Applications/Adobe Illustrator CC/Presets.localized/en_US/Scripts/
+     1. Quit Illustrator
+     2. Copy the files into the Illustrator application folder's "Presets" > "Scripts" subfolder
+     3. After restarting Illustrator you can find the scripts in the menu "File" > "Scripts";
 
-On Windows
+TIP: You can create subfolders in the scripts folder to organize your scripts (like they are organized here)
 
-Then choose File > Scripts, and choose a script
+NOTE: Adopted from a guide by Wolfgang Reszel.
